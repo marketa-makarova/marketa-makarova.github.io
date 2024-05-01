@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://makarova.github.io/sitemap.xml
+Sitemap: https://marketa-makarova.github.io/sitemap.xml
