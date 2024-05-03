@@ -1,11 +1,17 @@
 {
-    "general": {
-        "name": "Markéta Makarová",
-        "occupation": "Doctoral student, statistician, data analyst",
-        "image": "",
-        "email": "marketa.makarova@mail.muni.cz",
-        "website": "https://marketa-makarova.github.io"
-    },
+    "basics": {
+    "name": "Markéta Makarová",
+    "label": "Doctoral student, statistician, data analyst",
+    "image": "",
+    "email": "marketa.makarova@mail.muni.cz",
+    "profiles": [
+      {
+        "network": "ResearchGate",
+        "username": "Markéta Makarová",
+        "url": "https://researchgate.com/"
+      }
+    ]
+  },
     "work": [
         {
             "name": "Department of Mathematics and Statistics",
