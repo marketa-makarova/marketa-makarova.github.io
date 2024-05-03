@@ -1,10 +1,10 @@
 {
-    "basics": {
+    "general information": {
         "name": "Markéta Makarová",
-        "label": "Doctoral student, statistician, data analyst",
+        "occupation": "Doctoral student, statistician, data analyst",
         "image": "",
         "email": "marketa.makarova@mail.muni.cz",
-        "url": "https://marketa-makarova.github.io",
+        "website": "https://marketa-makarova.github.io",
         "location": {
             "address": "Kotlářská 2",
             "postalCode": "611 37",
@@ -20,31 +20,61 @@
             }
         ]
     },
-    "work": [
+    "work experience": [
         {
             "name": "Department of Mathematics and Statistics",
             "position": "Doctoral student",
             "url": "https://www.math.muni.cz/english/",
             "startDate": "2022",
-            "endDate": "-",
-            "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-            "highlights": [
-                "Relativity"
-            ]
+            "endDate": "-"
+        },
+        {
+            "name": "Julie Bienertova-Vasku's lab",
+            "position": "Chief analyst",
+            "url": "https://www.researchgate.net/lab/Julie-Bienertova-Vasku-lab",
+            "startDate": "2022",
+            "endDate": "-"
+        },
+        {
+            "name": "Thermo Fisher Scientific",
+            "position": "Senior intern",
+            "url": "https://www.thermofisher.com/",
+            "startDate": "2021",
+            "endDate": "2023"
         }
     ],
     "education": [
         {
-            "institution": "University of Zurich, Zurich, Switzerland",
-            "location": "Zurich, Switzerland",
-            "url": "https://www.uzh.ch/",
-            "area": "Software Development",
-            "studyType": "PhD",
-            "startDate": "1905-01-01",
-            "endDate": "1905-01-01",
-            "score": "10",
-            "courses": [
-                "Theory of Relativity"
+            "institution": "Masaryk University",
+            "location": "Brno, Czechia"
+            "programme": "Mathematics and Statistics",
+            "studyType": "Ph.D.",
+            "startDate": "2022",
+            "endDate": "2026",
+            "plan": [
+                "Probability, Statistics and Mathematical Modelling"
+            ]
+        },
+        {
+            "institution": "Masaryk University",
+            "location": "Brno, Czechia"
+            "programme": "Applied Mathematics",
+            "studyType": "Mgr.",
+            "startDate": "2020",
+            "endDate": "2022",
+            "plan": [
+                "Statistics and data analysis"
+            ]
+        },
+        {
+            "institution": "Masaryk University",
+            "location": "Brno, Czechia"
+            "programme": "Mathematics",
+            "studyType": "Ph.D.",
+            "startDate": "2017",
+            "endDate": "2020",
+            "plan": [
+                "Financial and Insurance Mathematics"
             ]
         }
     ],
@@ -137,8 +167,8 @@
             "icon": "fa-solid fa-tag",
             "keywords": [
                 "Sparse PCA",
-                "Spiked model",
-                "Data driven methods"
+                "Spiked covariance model",
+                "Data driven method development"
             ]
         },
         {
@@ -169,7 +199,7 @@
         {
             "name": "prof. MUDr. Julie Dobrovolná, Ph.D.",
             "icon": "fa-solid fa-thumbtack",
-            "reference": "Head of the Environmental Physiology Group at RECETOX, Faculty of Sciences Masaryk University. Head of the Research Programme Health in Motion at Faculty of Sports of Masaryk University."
+            "reference": "Head of the Environmental Physiology Group at RECETOX, Faculty of Science, Masaryk University. \n Head of the Research Programme Health in Motion at Faculty of Sports, Masaryk University."
         }
     ],
     "projects": [
@@ -177,8 +207,13 @@
             "name": "Stress resilience and dealing with physical and verbal assault",
             "summary": "Investigator: prof. MUDr. Julie Dobrovolná, Ph.D.",
             "startDate": "2022",
-            "endDate": "2024",
-            "url": "https://example.com"
+            "endDate": "2024"
+        },
+        {
+            "name": "Clinical and proteomic biomarkers predicting reverse left ventricular remodeling in patients with newly diagnosed dilated cardiomyopathy",
+            "summary": "Investigator: MUDr. Jan Novák, Ph.D.",
+            "startDate": "2022",
+            "endDate": "2025"
         }
     ]
 }
