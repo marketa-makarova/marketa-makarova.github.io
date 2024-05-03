@@ -2,11 +2,22 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: During the spring semester of 2024 I am not teaching any courses.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+(upcoming) Autumn 2024:
+* Faculty of science - M4130 Statistical software
+* Faculty of science - M7222 Generalized linear models
 
-Organize your courses by years, topics, or universities, however you like!
+Autumn 2023:
+* Faculty of science - M4130 Statistical software
+* Faculty of science - M7222 Generalized linear models
+
+Spring 2023:
+* Faculty of informatics - MVO13 Statistics for computer science
+
+Autumn 2022:
+* Faculty of science - M4130 Statistical software
+
