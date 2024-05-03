@@ -4,21 +4,7 @@
         "occupation": "Doctoral student, statistician, data analyst",
         "image": "",
         "email": "marketa.makarova@mail.muni.cz",
-        "website": "https://marketa-makarova.github.io",
-        "location": {
-            "address": "Kotlářská 2",
-            "postalCode": "611 37",
-            "city": "Brno",
-            "countryCode": "CZ",
-            "region": "Czechia"
-        },
-        "profiles": [
-            {
-                "network": "ResearchGate",
-                "username": "Markéta Makarová",
-                "url": "https://www.researchgate.net/profile/Marketa-Makarova"
-            }
-        ]
+        "website": "https://marketa-makarova.github.io"
     },
     "work experience": [
         {
