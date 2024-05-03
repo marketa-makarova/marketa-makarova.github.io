@@ -46,7 +46,7 @@
     "education": [
         {
             "institution": "Masaryk University",
-            "location": "Brno, Czechia"
+            "location": "Brno, Czechia",
             "programme": "Mathematics and Statistics",
             "studyType": "Ph.D.",
             "startDate": "2022",
@@ -57,7 +57,7 @@
         },
         {
             "institution": "Masaryk University",
-            "location": "Brno, Czechia"
+            "location": "Brno, Czechia",
             "programme": "Applied Mathematics",
             "studyType": "Mgr.",
             "startDate": "2020",
@@ -68,7 +68,7 @@
         },
         {
             "institution": "Masaryk University",
-            "location": "Brno, Czechia"
+            "location": "Brno, Czechia",
             "programme": "Mathematics",
             "studyType": "Ph.D.",
             "startDate": "2017",
@@ -80,46 +80,34 @@
     ],
     "certificates": [
         {
-            "name": "Machine Learning",
-            "date": "2018-01-01",
-            "issuer": "Stanford University",
-            "url": "https://example.com",
+            "name": "CPE C2 English Proficiency",
+            "date": "2023",
+            "issuer": "Cambridge Assessment English",
             "icon": "fa-solid fa-location-dot"
         },
         {
-            "name": "Quantum Computing",
-            "date": "2018-01-01",
-            "issuer": "Stanford University",
-            "url": "https://example.com",
-            "icon": "fa-solid fa-tag"
+            "name": "Machine Learning Specialization",
+            "date": "2021",
+            "issuer": "deeplearning.ai",
+            "icon": "fa-solid fa-location-dot"
+        },
+       {
+            "name": "Deep Learning Specialization",
+            "date": "2022",
+            "issuer": "deeplearning.ai",
+            "icon": "fa-solid fa-location-dot"
         },
         {
-            "name": "Quantum Information",
-            "date": "2018-01-01",
-            "issuer": "Stanford University",
-            "url": "https://example.com",
-            "icon": "fa-solid fa-envelope"
+            "name": "Google Advanced Data Analytics Professional Certificate",
+            "date": "2021",
+            "issuer": "Google",
+            "icon": "fa-solid fa-location-dot"
         },
         {
-            "name": "Quantum Cryptography",
-            "date": "2018-01-01",
-            "issuer": "Stanford University",
-            "url": "https://example.com",
-            "icon": "fa-solid fa-hashtag"
-        },
-        {
-            "name": "Quantum Communication",
-            "date": "2018-01-01",
-            "issuer": "Stanford University",
-            "url": "https://example.com",
-            "icon": "fa-solid fa-calendar"
-        },
-        {
-            "name": "Quantum Teleportation",
-            "date": "2018-01-01",
-            "issuer": "Stanford University",
-            "url": "https://example.com",
-            "icon": "fa-solid fa-clipboard-check"
+            "name": "Foundations of University Teaching Excellence",
+            "date": "2023",
+            "issuer": "Masaryk University",
+            "icon": "fa-solid fa-location-dot"
         }
     ],
     "skills": [
