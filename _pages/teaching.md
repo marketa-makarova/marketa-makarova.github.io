@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: During the spring semester of 2024 I am not teaching any courses.
+description: 
 nav: true
 nav_order: 6
 ---
