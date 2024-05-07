@@ -7,6 +7,7 @@ nav: true
 nav_order: 6
 ---
 
+
 (upcoming) Autumn 2024:
 * Faculty of science - M4130 Statistical software
 * Faculty of science - M7222 Generalized linear models
