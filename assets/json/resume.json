@@ -1,7 +1,7 @@
 {
-    "basics": {
+    "general": {
     "name": "Markéta Makarová",
-    "label": "Doctoral student, statistician, data analyst",
+    "position": "Doctoral student, statistician, data analyst",
     "image": "",
     "email": "marketa.makarova@mail.muni.cz",
     "profiles": [
