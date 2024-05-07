@@ -23,6 +23,7 @@
         {
             "name": "Julie Bienertova-Vasku's lab",
             "position": "Chief analyst",
+            "url": "https://www.researchgate.net/lab/Julie-Bienertova-Vasku-lab", 
             "startDate": "2022",
             "endDate": "-"
         },
@@ -64,7 +65,7 @@
             "location": "Brno, Czechia",
             "programme": "Mathematics",
             "url": "https://www.math.muni.cz/english/", 
-            "studyType": "Ph.D.",
+            "studyType": "Bc.",
             "startDate": "2017",
             "endDate": "2020",
             "plan": [
@@ -77,30 +78,35 @@
             "name": "CPE C2 English Proficiency",
             "date": "2023",
             "issuer": "Cambridge Assessment English",
+            "url": "https://www.cambridgeenglish.org/exams-and-tests/proficiency/",
             "icon": "fa-solid fa-location-dot"
         },
         {
             "name": "Machine Learning Specialization",
             "date": "2021",
             "issuer": "deeplearning.ai",
+            "url": "https://www.deeplearning.ai/courses/machine-learning-specialization/",
             "icon": "fa-solid fa-location-dot"
         },
        {
             "name": "Deep Learning Specialization",
             "date": "2022",
             "issuer": "deeplearning.ai",
+            "url": "https://www.deeplearning.ai/courses/deep-learning-specialization/",
             "icon": "fa-solid fa-location-dot"
         },
         {
             "name": "Google Advanced Data Analytics Professional Certificate",
             "date": "2021",
             "issuer": "Google",
+            "url": "https://www.coursera.org/google-certificates/data-analytics-certificate",
             "icon": "fa-solid fa-location-dot"
         },
         {
             "name": "Foundations of University Teaching Excellence",
             "date": "2023",
             "issuer": "Masaryk University",
+            "url": "https://cerpek.muni.cz/en/offer-of-education/pedagogical-competencies/educational-programs/foundations",
             "icon": "fa-solid fa-location-dot"
         }
     ],
