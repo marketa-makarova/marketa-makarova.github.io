@@ -16,6 +16,7 @@
         {
             "name": "Department of Mathematics and Statistics",
             "position": "Doctoral student",
+            "url": "https://www.math.muni.cz/english/", 
             "startDate": "2022",
             "endDate": "-"
         },
@@ -38,6 +39,7 @@
             "institution": "Masaryk University",
             "location": "Brno, Czechia",
             "programme": "Mathematics and Statistics",
+            "url": "https://www.math.muni.cz/english/", 
             "studyType": "Ph.D.",
             "startDate": "2022",
             "endDate": "2026",
@@ -49,6 +51,7 @@
             "institution": "Masaryk University",
             "location": "Brno, Czechia",
             "programme": "Applied Mathematics",
+            "url": "https://www.math.muni.cz/english/", 
             "studyType": "Mgr.",
             "startDate": "2020",
             "endDate": "2022",
@@ -60,6 +63,7 @@
             "institution": "Masaryk University",
             "location": "Brno, Czechia",
             "programme": "Mathematics",
+            "url": "https://www.math.muni.cz/english/", 
             "studyType": "Ph.D.",
             "startDate": "2017",
             "endDate": "2020",
