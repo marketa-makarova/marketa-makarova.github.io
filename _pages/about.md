@@ -19,4 +19,4 @@ I am a doctoral student at Masaryk University advised by Jan Koláček.
 
 I obtained my bachelor's degree in Financial Mathematics and my master's degree in Statistics and Data Analysis. 
 
-My research interest lies in the area of high-dimensional statistics and machine learning. I am working on developing analytical methods which are motivated by the need to provide computational tools to help aid biomarker discovery and advance our understanding of biological processes.
+My research interest lies in the area of **high-dimensional statistics** and **machine learning**. I am working on developing analytical methods which are motivated by the need to provide computational tools to help aid biomarker discovery and advance our understanding of biological processes.
