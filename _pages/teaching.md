@@ -10,7 +10,9 @@ nav_order: 6
 
 (upcoming) Autumn 2024:
 * Faculty of science - M4130 Statistical software
-* Faculty of science - M7222 Generalized linear models
+
+Spring 2024:
+* Abroad stay, no teaching this semester :)
 
 Autumn 2023:
 * Faculty of science - M4130 Statistical software
